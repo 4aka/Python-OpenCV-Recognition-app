@@ -2,7 +2,8 @@
 
 # Gesture Control App
 
-This project uses Python, OpenCV, and Mediapipe to recognize head and hand gestures via webcam and perform system actions (like opening browser tabs, closing windows, or simulating play/pause).
+This project uses Python, OpenCV, and Mediapipe to recognize head and hand gestures via webcam and 
+perform system actions (like opening browser tabs, closing windows, or simulating play/pause).
 
 ---
 
@@ -63,4 +64,3 @@ If you want, I can help add logging filters or suppression to hide these message
 - `main.py` → main application script
 - `requirements.txt` → list of required Python packages
 
-Let me know if you want example screenshots or a usage GIF added!

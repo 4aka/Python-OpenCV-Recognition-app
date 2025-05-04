@@ -1,4 +1,3 @@
-# Import necessary libraries
 import cv2  # OpenCV for computer vision tasks
 import mediapipe as mp  # Mediapipe for gesture and face detection
 import pyautogui  # PyAutoGUI for controlling system actions (keyboard/mouse)
